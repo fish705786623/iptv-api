@@ -15,3 +15,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://d.feiliupan.com/f/2qkJ1WKIgw/2ILZszfk2Y/36849995948761088/bde8/7e9/1/a/xiaobaizb.txt
